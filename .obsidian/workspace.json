@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ec8f43a590806a60",
+        "id": "e568f98b23d6d0e2",
         "type": "tabs",
         "children": [
           {
-            "id": "961a09fa99aecc01",
+            "id": "7ce23f0594910078",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -146,11 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "961a09fa99aecc01",
+  "active": "7ce23f0594910078",
   "lastOpenFiles": [
     "story/001A - Shoot the moon.md",
     "story/799A - 《Your Reality》.md",
     "story/000A - 遊戲惡役公主轉生現實世界.md",
+    "story/001A - 月球磒落.md",
     "story"
   ]
 }
