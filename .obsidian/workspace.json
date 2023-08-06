@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "story/799A - 《Your Reality》.md",
+                "file": "story/001A - Shoot the moon.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "story/799A - 《Your Reality》.md",
+                "file": "story/001A - Shoot the moon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "story/799A - 《Your Reality》.md",
+                "file": "story/001A - Shoot the moon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "story/799A - 《Your Reality》.md"
+                "file": "story/001A - Shoot the moon.md"
               }
             }
           }
@@ -160,8 +160,9 @@
   },
   "active": "f23067e35d3c8678",
   "lastOpenFiles": [
-    "story/999B - 《成為悲劇元兇的最強異端，最後頭目女王為了人民犧牲奉獻》.md",
     "story/000A - 遊戲惡役公主轉生現實世界.md",
+    "story/999B - 《成為悲劇元兇的最強異端，最後頭目女王為了人民犧牲奉獻》.md",
+    "setting",
     "story/799A - 《Your Reality》.md",
     "story/001A - Shoot the moon.md",
     "story/001A - 月球磒落.md",
