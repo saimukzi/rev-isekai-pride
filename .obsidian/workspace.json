@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "story/000B - 筆記電腦.md",
+                "file": "story/799A - 《Your Reality》.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "story/000B - 筆記電腦.md",
+                "file": "story/000A - 遊戲惡役公主轉生現實世界.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "story/000B - 筆記電腦.md",
+                "file": "story/000A - 遊戲惡役公主轉生現實世界.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "story/000B - 筆記電腦.md"
+                "file": "story/000A - 遊戲惡役公主轉生現實世界.md"
               }
             }
           }
@@ -174,8 +174,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 68,
-        "y": 75,
+        "x": 611,
+        "y": 169,
         "width": 1024,
         "height": 800,
         "maximize": false,
@@ -183,15 +183,15 @@
       }
     ]
   },
-  "active": "38674412436d7dc9",
+  "active": "47d7a7791f4aa7da",
   "lastOpenFiles": [
-    "story/001A - Shoot the moon.md",
     "story/799A - 《Your Reality》.md",
-    "story/000B - 筆記電腦.md",
-    "story/000A - 遊戲惡役公主轉生現實世界.md",
-    "setting/Char 000 - 普萊朵.md",
-    "setting/Char 003 - 日和.md",
     "story/999B - 《成為悲劇元兇的最強異端，最後頭目女王為了人民犧牲奉獻》.md",
+    "story/000B - 筆記電腦.md",
+    "setting/Char 000 - 普萊朵.md",
+    "story/001A - Shoot the moon.md",
+    "story/000A - 遊戲惡役公主轉生現實世界.md",
+    "setting/Char 003 - 日和.md",
     "setting",
     "story/001A - 月球磒落.md",
     "story"
