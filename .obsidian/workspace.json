@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6d208d2976c99094",
+        "id": "0263e01842325863",
         "type": "tabs",
         "children": [
           {
-            "id": "0f6d1f2fd2fb9bf5",
+            "id": "0f6ae8cd8d4a1631",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -146,17 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0f6d1f2fd2fb9bf5",
+  "active": "0f6ae8cd8d4a1631",
   "lastOpenFiles": [
-    "setting/Char 000 - 普萊朵.md",
-    "setting/Char 003 - 日和.md",
-    "side-story/SS000 - 藍鳥交叉.md",
-    "side-story",
     "story/799A - 《Your Reality》.md",
     "story/000A - 遊戲惡役公主轉生現實世界.md",
+    "side-story/SS000 - 藍鳥交叉.md",
+    "side-story",
     "story/999B - 《成為悲劇元兇的最強異端，最後頭目女王為了人民犧牲奉獻》.md",
     "story/000B - 筆記電腦.md",
+    "setting/Char 000 - 普萊朵.md",
     "story/001A - Shoot the moon.md",
+    "setting/Char 003 - 日和.md",
     "setting",
     "story/001A - 月球磒落.md",
     "story"
