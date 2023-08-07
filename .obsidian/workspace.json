@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "story/900AB - 《妳與一線光芒》.md",
+                "file": "story/799A - 《Your Reality》.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1eb729c05c09028e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "story/800B - 黃爛.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "story/900AB - 《妳與一線光芒》.md",
+                "file": "story/800B - 黃爛.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "story/900AB - 《妳與一線光芒》.md",
+                "file": "story/800B - 黃爛.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "story/900AB - 《妳與一線光芒》.md"
+                "file": "story/800B - 黃爛.md"
               }
             }
           }
@@ -146,17 +159,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0f6ae8cd8d4a1631",
+  "active": "1eb729c05c09028e",
   "lastOpenFiles": [
+    "story/618AB - 普萊朵.md",
+    "story/800B - 黃爛.md",
+    "story/382AB - 遙香.md",
     "story/799A - 《Your Reality》.md",
-    "story/900AB - 《妳與一線光芒》.md",
     "story/000B - 筆記電腦.md",
     "story/000A - 遊戲惡役公主轉生現實世界.md",
+    "story/001A - Shoot the moon.md",
     "setting/Char 000 - 普萊朵.md",
+    "story/500A - 日和.md",
+    "story/900AB - 《妳與一線光芒》.md",
     "story/999B - 《成為悲劇元兇的最強異端，最後頭目女王為了人民犧牲奉獻》.md",
     "side-story/SS000 - 藍鳥交叉.md",
     "side-story",
-    "story/001A - Shoot the moon.md",
     "setting/Char 003 - 日和.md",
     "setting",
     "story/001A - 月球磒落.md",
