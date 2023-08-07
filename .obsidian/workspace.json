@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "caa5485843d22e62",
+        "id": "6d208d2976c99094",
         "type": "tabs",
         "children": [
           {
-            "id": "38674412436d7dc9",
+            "id": "0f6d1f2fd2fb9bf5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "story/799A - 《Your Reality》.md",
+                "file": "side-story/SS000 - 藍鳥交叉.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "story/000A - 遊戲惡役公主轉生現實世界.md",
+                "file": "side-story/SS000 - 藍鳥交叉.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "story/000A - 遊戲惡役公主轉生現實世界.md",
+                "file": "side-story/SS000 - 藍鳥交叉.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "story/000A - 遊戲惡役公主轉生現實世界.md"
+                "file": "side-story/SS000 - 藍鳥交叉.md"
               }
             }
           }
@@ -146,52 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "floating": {
-    "id": "f28f2e92515caacd",
-    "type": "floating",
-    "children": [
-      {
-        "id": "50a10bcde567591d",
-        "type": "window",
-        "children": [
-          {
-            "id": "8b613f9d87cd8019",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "47d7a7791f4aa7da",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "story/000A - 遊戲惡役公主轉生現實世界.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 611,
-        "y": 169,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "47d7a7791f4aa7da",
+  "active": "0f6d1f2fd2fb9bf5",
   "lastOpenFiles": [
+    "setting/Char 000 - 普萊朵.md",
+    "setting/Char 003 - 日和.md",
+    "side-story/SS000 - 藍鳥交叉.md",
+    "side-story",
     "story/799A - 《Your Reality》.md",
+    "story/000A - 遊戲惡役公主轉生現實世界.md",
     "story/999B - 《成為悲劇元兇的最強異端，最後頭目女王為了人民犧牲奉獻》.md",
     "story/000B - 筆記電腦.md",
-    "setting/Char 000 - 普萊朵.md",
     "story/001A - Shoot the moon.md",
-    "story/000A - 遊戲惡役公主轉生現實世界.md",
-    "setting/Char 003 - 日和.md",
     "setting",
     "story/001A - 月球磒落.md",
     "story"
